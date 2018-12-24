@@ -42,12 +42,12 @@ body {
 
   &__logo {
     height: 3.5rem;
-  }
 
-  &__logo-box {
-    position: absolute;
-    top: 4rem;
-    left: 4rem;
+    &-box {
+      position: absolute;
+      top: 4rem;
+      left: 4rem;
+    }
   }
 
   &__text-box {
